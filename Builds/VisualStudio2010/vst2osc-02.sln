@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2C95D302-55F7-320F-019D-C2657414E424}") = "vst2osc-02", "vst2osc-02.vcxproj", "{82E1B9CB-6D7A-5BFE-066E-3FCD27F579F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E1B9CB-6D7A-5BFE-066E-3FCD27F579F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{82E1B9CB-6D7A-5BFE-066E-3FCD27F579F9}.Debug|Win32.Build.0 = Debug|Win32
+		{82E1B9CB-6D7A-5BFE-066E-3FCD27F579F9}.Release|Win32.ActiveCfg = Release|Win32
+		{82E1B9CB-6D7A-5BFE-066E-3FCD27F579F9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
